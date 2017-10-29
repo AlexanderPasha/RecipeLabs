@@ -1,0 +1,46 @@
+{
+  "_note1": "KEEP THIS FILE! Check it into a version control system (VCS) like git.",
+  "_note2": "ObjectBox manages crucial IDs for your object model. See docs for details.",
+  "_note3": "If you have VCS merge conflicts, you must resolve them according to ObjectBox docs.",
+  "entities": [
+    {
+      "id": "1:4407701261400681229",
+      "lastPropertyId": "5:8526420568365386867",
+      "name": "Result",
+      "properties": [
+        {
+          "id": "1:275623102113072083",
+          "name": "id"
+        },
+        {
+          "id": "2:862128478710339108",
+          "name": "title"
+        },
+        {
+          "id": "3:9036751344309800775",
+          "name": "href"
+        },
+        {
+          "id": "4:6858850694850232166",
+          "name": "ingredients"
+        },
+        {
+          "id": "5:8526420568365386867",
+          "name": "thumbnail"
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "lastEntityId": "1:4407701261400681229",
+  "lastIndexId": "0:0",
+  "lastRelationId": "0:0",
+  "lastSequenceId": "0:0",
+  "modelVersion": 4,
+  "modelVersionParserMinimum": 4,
+  "retiredEntityUids": [],
+  "retiredIndexUids": [],
+  "retiredPropertyUids": [],
+  "retiredRelationUids": [],
+  "version": 1
+}
